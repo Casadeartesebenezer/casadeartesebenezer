@@ -1,0 +1,29 @@
+
+body {
+    background: url('vangogh-bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Georgia', serif;
+    color: #fdf6e3;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    padding: 2rem;
+}
+main {
+    padding: 2rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 2rem;
+    border-radius: 10px;
+}
+.whatsapp-button {
+    display: inline-block;
+    padding: 1rem;
+    background-color: #25D366;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
